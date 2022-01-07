@@ -12,6 +12,7 @@
   <a href="https://github.com/julliabats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julliabats&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julliabats&layout=compact&langs_count=7&theme=dracula"/>
+   <img align="center" width="148" height="180" src="https://hnet.com/video-to-gif/viewimage/20220106-23-a0j6kLy3EPjonvqI-IrNI2x-HNET">
 </div>
   
  ##
