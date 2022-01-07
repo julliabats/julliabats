@@ -1,4 +1,5 @@
- Olá! Eu sou a Júllia Batista.
+ ## Olá! Eu sou a Júllia Batista.
+ 
 - 💻 I’m currently working  on  Clearsale S/A
 - 👩🏼‍💻 I’m currently learning API 
 - 💌  How to reach me: instagram @julliabats
