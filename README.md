@@ -14,9 +14,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julliabats&layout=compact&langs_count=7&theme=dracula"/>
    <div>
 
-    ##
-    <div>
- <img align="right" width="188" height="180" src="https://im6.ezgif.com/tmp/ezgif-6-c87667a454.gif">
+ <img align="center" width="188" height="180" src="https://im6.ezgif.com/tmp/ezgif-6-c87667a454.gif">
 </div>
   
  ##
