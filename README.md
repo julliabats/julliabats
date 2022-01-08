@@ -1,8 +1,8 @@
  ## Olá! Eu sou a Júllia Batista.
  
-   <img align="center" width="188" height="180" src="https://im6.ezgif.com/tmp/ezgif-6-c87667a454.gif">
- 
- <div align="center">
+ <div align="center"> 
+   <img width="188" height="180" src="https://im6.ezgif.com/tmp/ezgif-6-c87667a454.gif">
+
 - 💻 I’m currently working  on  Clearsale S/A
 - 👩🏼‍💻 I’m currently learning API 
 - 💌  How to reach me: instagram @julliabats
