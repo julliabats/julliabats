@@ -1,5 +1,6 @@
  ## Olá! Eu sou a Júllia Batista.
  
+  <div align="center"> 
  - 💻 I’m currently working  on  Clearsale S/A
  - 👩🏼‍💻 I’m currently learning API 
  - 💌  How to reach me: instagram @julliabats
