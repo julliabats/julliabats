@@ -3,13 +3,7 @@
  
   <div align="center"> 
    <img width="178" height="170" src="https://im6.ezgif.com/tmp/ezgif-6-c87667a454.gif">
- 
-  <div align="center"> 
- 
- -  💻 I’m currently working  on  Clearsale S/A
- -  👩🏼‍💻 I’m currently learning API 
- -  💌  How to reach me: instagram @julliabats
- -  💗 Pronouns: ela/dela
+
   
 ➛➛ Iniciante no mundo da tecnologia e a cada dia buscando por mais progressos.📚📖
 
