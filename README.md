@@ -23,8 +23,7 @@
 <div>
  
  <div>
- <img align="center" width="148" height="180" src="blob:https://web.whatsapp.com/c6030480-9cdc-4062-8424-0f07dbc7e50c">
-  <div>
+ 
    
    
  
