@@ -13,8 +13,8 @@
    
   ##  <img align="center" width="188" height="180" src="https://im6.ezgif.com/tmp/ezgif-6-c87667a454.gif">
    
-  <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=julliabats&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julliabats&layout=compact&langs_count=7&theme=dracula"/>
+  <img align="left" height="160em" src="https://github-readme-stats.vercel.app/api?username=julliabats&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julliabats&layout=compact&langs_count=7&theme=dracula"/>
    <div>
 
  ##
