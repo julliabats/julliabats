@@ -12,6 +12,7 @@
   <a href="https://github.com/julliabats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julliabats&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julliabats&layout=compact&langs_count=7&theme=dracula"/>
+ <img align="center" width="148" height="180" src="https://im6.ezgif.com/tmp/ezgif-6-c87667a454.gif">
 </div>
   
  ##
@@ -22,8 +23,5 @@
   <a href="https://www.linkedin.com/in/j%C3%BAllia-batista-4670b1210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <div>
  
- <div>
- 
-   
    
  
