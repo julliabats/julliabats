@@ -1,4 +1,6 @@
- ## Olá! Eu sou a Júllia Batista.
+<div align="center">
+ 
+## Olá! Eu sou a Júllia Batista.
  
  
 <div align="center">
@@ -12,12 +14,12 @@
    <div align="center">
   <a href="https://github.com/julliabats">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=julliabats&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julliabats&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julliabats&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
  <div align="left">   
-<img alt="Ju-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 <img alt="Ju-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="Ju-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 
 
  ## 
