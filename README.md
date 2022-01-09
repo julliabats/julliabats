@@ -6,6 +6,7 @@
  - 💻 I'm currently working on Clearsale
  - 💗 Pronouns: ela/ dela
  - 💌 How to reach me: instragram julliabats
+ 
 ➛➛ Iniciante no mundo da tecnologia e a cada dia buscando por mais progressos.📚📖
  
 
