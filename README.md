@@ -4,10 +4,6 @@
 <div align="center">
 ➛➛ Iniciante no mundo da tecnologia e a cada dia buscando por mais progressos.📚📖
  
-
-  <a href="https://github.com/julliabats">
-  <img align=left height="150em" src="https://github-readme-stats.vercel.app/api?username=julliabats&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img align=right height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julliabats&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
  ## 
