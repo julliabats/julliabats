@@ -15,7 +15,7 @@
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julliabats&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
- <div align="left"   
+ <div align="left">   
 <img alt="Ju-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 
  ## 
